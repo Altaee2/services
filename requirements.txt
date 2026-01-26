@@ -1,1 +1,15 @@
-gunicorn
+PIL
+config
+datetime
+gdshortener
+handlers
+hijri_converter
+keyboards
+pytz
+random
+requests
+telebot
+threading
+utils
+yt_dlp
+zipfile
