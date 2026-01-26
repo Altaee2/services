@@ -1,0 +1,356 @@
+[
+  {
+    "page": 1,
+    "sura_name": "الفاتحة",
+    "juz": 1,
+    "hizb": 1
+  },
+  {
+    "page": 2,
+    "sura_name": "البقرة",
+    "juz": 1,
+    "hizb": 1
+  },
+  {
+    "page": 17,
+    "sura_name": "البقرة",
+    "juz": 2,
+    "hizb": 3
+  },
+  {
+    "page": 22,
+    "sura_name": "البقرة",
+    "juz": 3,
+    "hizb": 5
+  },
+  {
+    "page": 32,
+    "sura_name": "آل عمران",
+    "juz": 3,
+    "hizb": 6
+  },
+  {
+    "page": 33,
+    "sura_name": "آل عمران",
+    "juz": 4,
+    "hizb": 7
+  },
+  {
+    "page": 50,
+    "sura_name": "النساء",
+    "juz": 4,
+    "hizb": 8
+  },
+  {
+    "page": 58,
+    "sura_name": "النساء",
+    "juz": 5,
+    "hizb": 9
+  },
+  {
+    "page": 77,
+    "sura_name": "المائدة",
+    "juz": 6,
+    "hizb": 11
+  },
+  {
+    "page": 82,
+    "sura_name": "المائدة",
+    "juz": 7,
+    "hizb": 13
+  },
+  {
+    "page": 93,
+    "sura_name": "الأنعام",
+    "juz": 7,
+    "hizb": 14
+  },
+  {
+    "page": 106,
+    "sura_name": "الأعراف",
+    "juz": 8,
+    "hizb": 16
+  },
+  {
+    "page": 115,
+    "sura_name": "الأعراف",
+    "juz": 9,
+    "hizb": 17
+  },
+  {
+    "page": 128,
+    "sura_name": "الأنفال",
+    "juz": 9,
+    "hizb": 18
+  },
+  {
+    "page": 137,
+    "sura_name": "الأنفال",
+    "juz": 10,
+    "hizb": 19
+  },
+  {
+    "page": 151,
+    "sura_name": "يونس",
+    "juz": 11,
+    "hizb": 21
+  },
+  {
+    "page": 176,
+    "sura_name": "هود",
+    "juz": 12,
+    "hizb": 23
+  },
+  {
+    "page": 187,
+    "sura_name": "يوسف",
+    "juz": 12,
+    "hizb": 24
+  },
+  {
+    "page": 201,
+    "sura_name": "الرعد",
+    "juz": 13,
+    "hizb": 25
+  },
+  {
+    "page": 221,
+    "sura_name": "إبراهيم",
+    "juz": 14,
+    "hizb": 27
+  },
+  {
+    "page": 227,
+    "sura_name": "الحجر",
+    "juz": 14,
+    "hizb": 28
+  },
+  {
+    "page": 249,
+    "sura_name": "الإسراء",
+    "juz": 15,
+    "hizb": 29
+  },
+  {
+    "page": 267,
+    "sura_name": "الكهف",
+    "juz": 16,
+    "hizb": 31
+  },
+  {
+    "page": 282,
+    "sura_name": "مريم",
+    "juz": 16,
+    "hizb": 32
+  },
+  {
+    "page": 283,
+    "sura_name": "مريم",
+    "juz": 17,
+    "hizb": 33
+  },
+  {
+    "page": 306,
+    "sura_name": "الأنبياء",
+    "juz": 17,
+    "hizb": 34
+  },
+  {
+    "page": 312,
+    "sura_name": "الأنبياء",
+    "juz": 18,
+    "hizb": 35
+  },
+  {
+    "page": 327,
+    "sura_name": "المؤمنون",
+    "juz": 18,
+    "hizb": 36
+  },
+  {
+    "page": 342,
+    "sura_name": "النور",
+    "juz": 18,
+    "hizb": 36
+  },
+  {
+    "page": 343,
+    "sura_name": "النور",
+    "juz": 19,
+    "hizb": 37
+  },
+  {
+    "page": 351,
+    "sura_name": "الفرقان",
+    "juz": 19,
+    "hizb": 37
+  },
+  {
+    "page": 361,
+    "sura_name": "الشعراء",
+    "juz": 19,
+    "hizb": 38
+  },
+  {
+    "page": 367,
+    "sura_name": "النمل",
+    "juz": 20,
+    "hizb": 39
+  },
+  {
+    "page": 376,
+    "sura_name": "القصص",
+    "juz": 20,
+    "hizb": 40
+  },
+  {
+    "page": 396,
+    "sura_name": "العنكبوت",
+    "juz": 21,
+    "hizb": 41
+  },
+  {
+    "page": 410,
+    "sura_name": "الروم",
+    "juz": 21,
+    "hizb": 42
+  },
+  {
+    "page": 411,
+    "sura_name": "الروم",
+    "juz": 22,
+    "hizb": 43
+  },
+  {
+    "page": 430,
+    "sura_name": "الأحزاب",
+    "juz": 22,
+    "hizb": 44
+  },
+  {
+    "page": 444,
+    "sura_name": "سبأ",
+    "juz": 22,
+    "hizb": 44
+  },
+  {
+    "page": 445,
+    "sura_name": "سبأ",
+    "juz": 23,
+    "hizb": 45
+  },
+  {
+    "page": 458,
+    "sura_name": "يس",
+    "juz": 23,
+    "hizb": 46
+  },
+  {
+    "page": 468,
+    "sura_name": "الصافات",
+    "juz": 23,
+    "hizb": 46
+  },
+  {
+    "page": 476,
+    "sura_name": "ص",
+    "juz": 23,
+    "hizb": 46
+  },
+  {
+    "page": 477,
+    "sura_name": "ص",
+    "juz": 24,
+    "hizb": 47
+  },
+  {
+    "page": 482,
+    "sura_name": "الزمر",
+    "juz": 24,
+    "hizb": 47
+  },
+  {
+    "page": 490,
+    "sura_name": "الزمر",
+    "juz": 25,
+    "hizb": 49
+  },
+  {
+    "page": 507,
+    "sura_name": "فصلت",
+    "juz": 25,
+    "hizb": 50
+  },
+  {
+    "page": 515,
+    "sura_name": "الزخرف",
+    "juz": 25,
+    "hizb": 50
+  },
+  {
+    "page": 517,
+    "sura_name": "الزخرف",
+    "juz": 26,
+    "hizb": 51
+  },
+  {
+    "page": 537,
+    "sura_name": "الأحقاف",
+    "juz": 26,
+    "hizb": 52
+  },
+  {
+    "page": 546,
+    "sura_name": "محمد",
+    "juz": 26,
+    "hizb": 52
+  },
+  {
+    "page": 547,
+    "sura_name": "محمد",
+    "juz": 27,
+    "hizb": 53
+  },
+  {
+    "page": 561,
+    "sura_name": "الذاريات",
+    "juz": 27,
+    "hizb": 54
+  },
+  {
+    "page": 566,
+    "sura_name": "الذاريات",
+    "juz": 28,
+    "hizb": 55
+  },
+  {
+    "page": 582,
+    "sura_name": "المجادلة",
+    "juz": 28,
+    "hizb": 56
+  },
+  {
+    "page": 586,
+    "sura_name": "المجادلة",
+    "juz": 29,
+    "hizb": 57
+  },
+  {
+    "page": 599,
+    "sura_name": "الزلزلة + العاديات",
+    "juz": 30,
+    "hizb": 57
+  },
+  {
+    "page": 603,
+    "sura_name": "التحريم",
+    "juz": 30,
+    "hizb": 60
+  },
+  {
+    "page": 604,
+    "sura_name": "الناس",
+    "juz": 30,
+    "hizb": 60
+  }
+]
