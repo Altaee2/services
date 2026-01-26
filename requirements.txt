@@ -1,4 +1,4 @@
-PIL
+Pillow
 config
 datetime
 gdshortener
